@@ -1,1 +1,1 @@
-# brianmullin.github.io
+All content copyright (c) Brian R. Mullin.
